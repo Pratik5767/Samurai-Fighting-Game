@@ -47,4 +47,4 @@ Special thanks to Chris Course for their insightful tutorials and resources that
 
 Your feedback is valuable! If you have any suggestions, improvements, or bug fixes, feel free to contribute to the project.
 
-Enjoy playing the Samurai Fighting Game! 🎮👊
+## Link: https://pratik5767-samurai-fight.netlify.app enjoy playing the Samurai Fighting Game! 🎮👊 
